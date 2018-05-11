@@ -1,0 +1,2 @@
+# PhoneGap
+Local Path
